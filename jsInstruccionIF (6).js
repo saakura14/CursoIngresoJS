@@ -12,7 +12,7 @@ function mostrar()
 	{
 		alert("Es Adolescente");
 	}
-	if(edad<13)
+	else
 	{
 		alert("Niño");
 	}
